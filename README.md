@@ -1,5 +1,5 @@
 # Get Object Array
-Get All property of an Object which was an array!
+Get All array property of an Object!
 
 ## Input:
 ![Screenshot](https://i.imgur.com/qipk0Gg.png)
