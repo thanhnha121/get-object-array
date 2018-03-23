@@ -11,7 +11,7 @@ Get All property of an Object which was an array!
 Includes `get-object-array.js`
 
 `
-  var result = GOA_Demo(data);
+  var result = GOA_Execute(data);
   // see GOA_Demo at get-object-array.js
 `
 
