@@ -2,10 +2,10 @@
 Get All property of an Object which was an array!
 
 ## Input:
-![Screenshot](https://i.imgur.com/kGRC8pT.png)
+![Screenshot](https://i.imgur.com/rNCid3P.png)
 
 ## Output:
-![Screenshot](https://i.imgur.com/uT8DAJN.png)
+![Screenshot](https://i.imgur.com/kmBvEvw.png)
 
 ## How to:
 Includes `get-object-array.js`
