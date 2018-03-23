@@ -9,9 +9,8 @@ Get All property of an Object which was an array!
 
 ## How to:
 `
-var result = GOA_Demo(data);
-
-// see GOA_Demo at get-object-array.js
+  var result = GOA_Demo(data);
+  // see GOA_Demo at get-object-array.js
 `
 
 ### No JS lib required
