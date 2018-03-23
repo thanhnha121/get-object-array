@@ -15,4 +15,4 @@ Includes `get-object-array.js`
   // see GOA_Demo at get-object-array.js
 `
 
-### No JS lib required
+### No JS lib required!
